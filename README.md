@@ -1,13 +1,11 @@
-<h1 align="center">🌙 Hey there, I’m Anushay Anjum! 🧡</h1>
+<h1 align="center"> Hey there, I’m Anushay! </h1>
 <p align="center"><em>I like chai, code, and data—sometimes all at once.</em></p>
 
 <p align="center">
-  <!-- Fun GIF to set the vibe -->
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Vibes" width="250"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Stats Badge -->
   <a href="https://github.com/anushayanjum">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anushayanjum&show_icons=true&theme=radical" />
   </a>
@@ -31,7 +29,7 @@
 - 🎸 **Electric Guitar** — riffing when algorithms get too abstract  
 - 🍳 **Culinary Experiments** — shawarma nights, tofu stir-fries, and more  
 - 🖌️ **Clay & Paint** — turning messy moments into mini masterpieces  
-- 📚 **Binging Worlds** — Avatar: The Last Airbender, LOTR, and original Star Wars  
+- 📚 **Binging Worlds** — Avatar: The Last Airbender, LOTR, Star Wars + many others. I watch and then I collect associated trinkets.
 - 🎲 **TTRPG Sessions** — rolling D20s and building galaxies (see “Jedi & Beyond”)
 
 ---

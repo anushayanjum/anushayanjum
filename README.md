@@ -1,5 +1,13 @@
-<h1 align="center">🌙 Hey there, I’m Anushay Anjum!</h1>
+<h1 align="center"> Hey there, I’m Anushay Anjum!</h1>
 <p align="center"><em>I like chai, code and data.</em></p>
+
+## 🎨 Hobbies
+
+- 🎸 **Electric Guitar**: riffing away when algorithms get too abstract  
+- 🍳 **Culinary Experiments**: shawarma nights, tofu stir-fries, and everything in between  
+- 🖌️ **Clay & Paint**: turning “mess” into miniature masterpieces  
+- 📚 **Avatar: The Last Airbender, LOTR and Star Wars (minus the sequels)**: on endless rewatch loop  
+- 🎲 **TTRPG Sessions**: rolling D20s and building galaxies (see “Jedi & Beyond”)  
 
 
 ## 💼 Experience Highlights

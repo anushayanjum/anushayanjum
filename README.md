@@ -2,7 +2,7 @@
 <p align="center"><em>I like chai, code, and data—sometimes all at once.</em></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Vibes" width="250"/>
+  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F450922981417367889%2F&psig=AOvVaw12JhM72h_h2rvYKsxIePZP&ust=1746683813304000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDNtLPWkI0DFQAAAAAdAAAAABAE)" alt="Coding Vibes" width="250"/>
 </p>
 
 <p align="center">

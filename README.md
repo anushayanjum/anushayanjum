@@ -62,5 +62,3 @@
   🌐 [anushayanjum.com](http://anushayanjum.com) &nbsp;|&nbsp;
   ✉️ anushayanjum@nyu.edu
 </p>
-
-> “When life gives you messy data, make poetic visualizations.” 🚀

@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there, I’m Anushay! </h1>
-<p align="center"><em>I like chai, code, and data — sometimes all at once.</em></p>
+<p align="center"><em>I like chai, code, and data... sometimes all at once.</em></p>
 
 <p align="center">
   <img 
